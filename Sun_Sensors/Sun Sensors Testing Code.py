@@ -116,8 +116,8 @@ print("The Attitude is Determined to be: ", attitude)
 #
 #File Output to be saved as a csv
 # need to write calculated data to testing document. 
-# add this code to github? 
-# add this code to the drive?
+# Fill out Input Output function
+# 
 #
 
 #
